@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "jihyun jung"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
