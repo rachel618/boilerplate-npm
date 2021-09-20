@@ -1,9 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-    		"name" : "Jihyun Jung",
-   		"email" : "rachel618@g.hongik.ac.kr"
-	},	
+	"author": "Jihyun Jung",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
